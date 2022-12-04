@@ -50,7 +50,7 @@ export const Tutorial: React.FC<Props> = ({ onClose }) => {
             will help you to expand and evolve.
           </p>
           <p className="mb-2">
-            Lets start by leveling up our Bumpkin so we can get the Workbench to
+            Let's start by leveling up our Bumpkin so we can get the Workbench to
             learn about tools.
           </p>
         </div>
